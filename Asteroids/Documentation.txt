@@ -1,0 +1,34 @@
+Asteroids
+=========
+Project 2
+IGME.202.01
+Developed By Cobey Adekanbi
+===========================
+
+- Game
+
+	This class project is a variation of classic asteroid games. The game consists of movement and physics controlled by vectors and basic input. I implemented a basic scoring system and "milestones" or points at which a certain score will increase the level(Up to lvl 3). Additionally, I added a selection of powerups and bonuses to add variety to the gameplay. There are also a number of visual effects associate with some of the powerups and base elements of the game. 
+
+
+- Controls
+
+	The player can use [WASD] or the [Arrow Keys] to traverse through the level. The player is always moving at a constant velocity. The user can press [W] or the [Up Arrow] to accelerate and press [D] or the [Down Arrow] to decelerate to a minimal velocity. [A] and [D] or [Left Arrow] and [Right Arrow] handle ship rotation. Pressing [Space] will fire a bullet at a rate, size, or strength based on the eqquipped weapon.
+
+
+- Bugs
+
+	The bugs I am aware of are the spawning of a large asteroid and small asteroid from the same spawner simultaneously, and an occasional issue with the release/firing of the pulse beam (the weapon you charge).
+
+
+- Above and Beyond
+
+	I added 2 additional weapons, a speed boost, and a life bonus. The Gattling Gun is the same as the base weapon, but has an increased fire rate. The Pulse Beam charges for a set amount of time and then fires upon release of the spacebar. The bullet it shoots does extra damage and can either destroy a large asteroid or collide with multiple smaller asteroids. The speed boost increases the max velocity and acceleration of the player and displays this boost with a colored particle emitter attached to the ship's rear. There is also a life bonus that increases the player's available lives.
+
+
+- Sources
+
+	Referenced - https://www.youtube.com/watch?v=3uI8qXDCmzU - for screenwrap concept
+
+
+*Notes
+I have been very busy with preparing for interviews, basketball, and midterms so I am using my grace period for this project.
