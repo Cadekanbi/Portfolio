@@ -1,5 +1,5 @@
 # Portfolio
-<p> An archive of my lastest personal projects </p>
+<p> An archive of my lastest school and personal projects </p>
 <hr>
 <p>
 NBA Web App <br>
