@@ -1,8 +1,10 @@
 # Portfolio
-An archive of my lastest personal projects
+<p> An archive of my lastest personal projects </p>
 <hr>
-NBA Web App 
-https://people.rit.edu/cja1093/330/projects/NbaWebApp/project2.html 
+<p>
+NBA Web App <br>
+https://people.rit.edu/cja1093/330/projects/NbaWebApp/project2.html <br>
 
-Audio Visualizer 
+Audio Visualizer <br>
 https://people.rit.edu/cja1093/330/projects/AudioVisualizer/webAudioVisualizer.html
+</p>
