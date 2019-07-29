@@ -1,6 +1,6 @@
 # Portfolio
 An archive of my lastest personal projects
-
+<hr>
 NBA Web App 
 https://people.rit.edu/cja1093/330/projects/NbaWebApp/project2.html 
 
